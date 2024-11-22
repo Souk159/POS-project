@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\POS1\\POS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|d:\\c#\\pos1\\pos\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmsell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\classconnectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:classconnectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmdataadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmdataadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmdataadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmdataadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\userhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:userhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\userhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:userhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmselectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmselectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmselectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmselectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmselluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmselluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|D:\\C#\\POS1\\POS\\frmselluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0AEC7D-57EE-4E36-BEF6-D2A46474D9DB}|POS.csproj|solutionrelative:frmselluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1597,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHome.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmHome.cs",
+              "RelativeDocumentMoniker": "frmHome.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmHome.cs",
+              "RelativeToolTip": "frmHome.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.405Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\Report.cs",
+              "RelativeDocumentMoniker": "Report.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\Report.cs [Design]",
+              "RelativeToolTip": "Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T15:11:58.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSell.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmSell.cs",
+              "RelativeDocumentMoniker": "frmSell.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmSell.cs",
+              "RelativeToolTip": "frmSell.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAgwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCategory.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmCategory.cs",
+              "RelativeDocumentMoniker": "frmCategory.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmCategory.cs [Design]",
+              "RelativeToolTip": "frmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.409Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\Report.cs",
+              "RelativeDocumentMoniker": "Report.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\Report.cs",
+              "RelativeToolTip": "Report.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAlwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:40:20.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:42:36.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:42:39.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmSell.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmSell.cs",
+              "RelativeDocumentMoniker": "frmSell.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmSell.cs [Design]",
+              "RelativeToolTip": "frmSell.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "CrystalReport1.rpt",
+              "ToolTip": "D:\\C#\\POS1\\POS\\CrystalReport1.rpt",
+              "RelativeToolTip": "CrystalReport1.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-07-06T17:08:32.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHome.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmHome.cs",
+              "RelativeDocumentMoniker": "frmHome.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmHome.cs [Design]",
+              "RelativeToolTip": "frmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmProduct.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmProduct.cs",
+              "RelativeDocumentMoniker": "frmProduct.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmProduct.cs",
+              "RelativeToolTip": "frmProduct.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAYwKEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmProduct.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmProduct.cs",
+              "RelativeDocumentMoniker": "frmProduct.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmProduct.cs [Design]",
+              "RelativeToolTip": "frmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "classConnectDatabase.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\classConnectDatabase.cs",
+              "RelativeDocumentMoniker": "classConnectDatabase.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\classConnectDatabase.cs",
+              "RelativeToolTip": "classConnectDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmUnit.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmUnit.cs",
+              "RelativeDocumentMoniker": "frmUnit.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmUnit.cs",
+              "RelativeToolTip": "frmUnit.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCategory.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmCategory.cs",
+              "RelativeDocumentMoniker": "frmCategory.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmCategory.cs",
+              "RelativeToolTip": "frmCategory.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwCYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmDataAdd.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmDataAdd.cs",
+              "RelativeDocumentMoniker": "frmDataAdd.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmDataAdd.cs",
+              "RelativeToolTip": "frmDataAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDataAdd.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmDataAdd.cs",
+              "RelativeDocumentMoniker": "frmDataAdd.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmDataAdd.cs [Design]",
+              "RelativeToolTip": "frmDataAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmUnit.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmUnit.cs",
+              "RelativeDocumentMoniker": "frmUnit.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmUnit.cs [Design]",
+              "RelativeToolTip": "frmUnit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:46:47.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:55:26.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserHome.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\UserHome.cs",
+              "RelativeDocumentMoniker": "UserHome.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\UserHome.cs [Design]",
+              "RelativeToolTip": "UserHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:15:04.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserHome.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\UserHome.cs",
+              "RelativeDocumentMoniker": "UserHome.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\UserHome.cs",
+              "RelativeToolTip": "UserHome.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:15:06.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmSelectReport.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmSelectReport.cs",
+              "RelativeDocumentMoniker": "frmSelectReport.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmSelectReport.cs [Design]",
+              "RelativeToolTip": "frmSelectReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:28:57.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmSelectReport.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmSelectReport.cs",
+              "RelativeDocumentMoniker": "frmSelectReport.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmSelectReport.cs",
+              "RelativeToolTip": "frmSelectReport.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:29:17.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmsellUser.cs",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmsellUser.cs",
+              "RelativeDocumentMoniker": "frmsellUser.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmsellUser.cs",
+              "RelativeToolTip": "frmsellUser.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAcwG8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:09:49.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmsellUser.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\POS1\\POS\\frmsellUser.cs",
+              "RelativeDocumentMoniker": "frmsellUser.cs",
+              "ToolTip": "D:\\C#\\POS1\\POS\\frmsellUser.cs [Design]",
+              "RelativeToolTip": "frmsellUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:09:26.522Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
